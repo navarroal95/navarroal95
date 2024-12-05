@@ -1,9 +1,9 @@
-# Hi, I'm Navarro 👋
+# Hi, I'm Alan Navarro 👋
 
 🎓 **Psychology Graduate | Data Scientist**  
 ♟️ Chess Enthusiast | 🧠 Data-Driven Thinker  
 
-I combine psychology and data science to uncover insights and build impactful solutions. Having completed a **Data Science Bootcamp**, I’ve worked on projects ranging from machine learning to predictive modeling and data visualization. Currently, I’m applying my skills to solve real-world business problems at work.
+I combine psychology and data science to uncover insights and build impactful solutions. Having completed a **Data Science Bootcamp**, I’ve worked on projects ranging from machine learning to predictive modeling and data visualization. Currently, I’m applying my skills to solve real-world business problems at work, including analyzing Amazon item data to drive better business decisions.
 
 ---
 
@@ -21,6 +21,7 @@ I combine psychology and data science to uncover insights and build impactful so
 - **Programming**: Python, SQL  
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib  
 - **Tools**: Git, GitHub, Tableau  
+- **Business Insights**: Analyzing Amazon product data to improve inventory, sales, and decision-making.
 
 ### 🚀 Projects
 - [Oil Well Profitability Analysis](link-to-project)  
@@ -28,3 +29,4 @@ I combine psychology and data science to uncover insights and build impactful so
 - [Customer Churn Prediction](link-to-project)  
 
 ✨ This repository is special because its `README.md` appears on my GitHub profile. Check out my projects and connect with me!
+
