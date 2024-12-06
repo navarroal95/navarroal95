@@ -28,25 +28,25 @@ I combine psychology and data science to uncover insights and build impactful so
 Here are some of the data-driven projects I've worked on:
 
 Data-Driven Oil Well Selection: Profitability and Risk Assessment for OilyGiant: Analyzed oil field data to determine the most profitable drilling locations, incorporating risk analysis and bootstrapping techniques.
-(https://github.com/navarroal95/Data-projects-TripleTen-/blob/main/Data-Driven%20Oil%20Well%20Selection%20Profitability%20and%20Risk%20Assessment%20for%20OilyGiant.ipynb)
+(https://github.com/navarroal95/Data-projects-TripleTen-/tree/main/Data-Driven%20Oil%20Well%20Selection)
 
 Forecasting for Sweet Lift Taxi: Built a predictive model to forecast hourly taxi demand at airports, improving operational efficiency for a ride-sharing company.
-(https://github.com/navarroal95/Data-projects-TripleTen-/blob/main/Forecasting%20for%20Sweet%20Lift%20Taxi.ipynb)
+(https://github.com/navarroal95/Data-projects-TripleTen-/tree/main/Forecasting%20for%20Sweet%20Lift%20Taxi)
 
 ICE Video Game Analysis: Conducted an in-depth analysis of video game sales and trends, providing actionable insights for marketing and product development.
-(https://github.com/navarroal95/Data-projects-TripleTen-/blob/main/ICE%20video%20game%20analysis.ipynb)
+(https://github.com/navarroal95/Data-projects-TripleTen-/tree/main/ICE%20video%20game%20analysis)
 
 Optimizing Used Car Pricing: A Machine Learning Solution for Rusty Bargain: Designed a machine learning model to predict used car prices, enhancing customer pricing transparency and operational efficiency.
-(https://github.com/navarroal95/Data-projects-TripleTen-/blob/main/Optimizing%20Used%20Car%20Pricing%20A%20Machine%20Learning%20Solution%20for%20Rusty%20Bargain.ipynb)
+(https://github.com/navarroal95/Data-projects-TripleTen-/tree/main/Optimizing%20Used%20Car%20Pricing%20A%20Machine%20Learning%20Solution%20for%20Rusty%20Bargain)
 
 Predicting Customer Churn: Proactive Retention Strategies for Interconnect Telecom: Developed a predictive model to identify customers likely to churn, enabling targeted retention strategies and reducing customer attrition.
-(https://github.com/navarroal95/Data-projects-TripleTen-/blob/main/Predicting%20Customer%20Churn%20Proactive%20Retention%20Strategies%20for%20Interconnect%20Telecom.ipynb)
+(https://github.com/navarroal95/Data-projects-TripleTen-/tree/main/Predicting%20Customer%20Churn%20Proactive%20Retention%20Strategies%20for%20Interconnect%20Telecom)
 
 Sentiment Analysis of IMDb Movie Reviews for Film Junky Union: Built a sentiment classification model to analyze IMDb movie reviews, achieving a high F1 score and providing insights for content recommendation.
-(https://github.com/navarroal95/Data-projects-TripleTen-/blob/main/Sentiment%20Analysis%20of%20IMDb%20Movie%20Reviews%20for%20Film%20Junky%20Union.ipynb)
+(https://github.com/navarroal95/Data-projects-TripleTen-/tree/main/Sentiment%20Analysis%20of%20IMDb%20Movie%20Reviews%20for%20Film%20Junky%20Union)
 
 Zuber Analysis on Weather and Patterns: Investigated the impact of weather and ride patterns on passenger demand for a ride-sharing company, offering data-driven solutions for service optimization.
-(https://github.com/navarroal95/Data-projects-TripleTen-/blob/main/Zuber%20Analysis%20on%20weather%20and%20patterns.ipynb)
+(https://github.com/navarroal95/Data-projects-TripleTen-/tree/main/Zuber%20Analysis%20on%20weather%20and%20patterns)
 
 
 ✨ This repository is special because its `README.md` appears on my GitHub profile. Check out my projects and connect with me!
