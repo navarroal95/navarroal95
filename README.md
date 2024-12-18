@@ -11,7 +11,7 @@ I combine psychology and data science to uncover insights and build impactful so
 - 👀 I’m interested in understanding human behavior through data and building machine learning models to solve practical problems.  
 - 🌱 I’m currently learning **deep learning** and **cloud-based tools for data science**.  
 - 💞️ I’m looking to collaborate on data science and machine learning projects that tackle real-world challenges.  
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/alan-navarro-5a6440232) | navarroal95@gmail.com  
+- 📫 How to reach me: [LinkedIn]((https://www.linkedin.com/in/alan-navarro3/)) | navarroal95@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I’m a chess enthusiast and believe every dataset is like a chessboard—full of patterns waiting to be uncovered!  
 
